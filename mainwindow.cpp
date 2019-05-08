@@ -11,7 +11,7 @@ MainWindow::MainWindow(QWidget *parent) :
     qDebug() << "Hello";
     qDebug() << "Hello one";
     qDebug() << "Hello second";
-    qDebug() << "Hello third";
+    qDebug() << "Hello third!";
 }
 
 MainWindow::~MainWindow()
