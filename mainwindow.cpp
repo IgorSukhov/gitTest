@@ -9,6 +9,7 @@ MainWindow::MainWindow(QWidget *parent) :
     ui->setupUi(this);
     this->setWindowTitle("Hello");
     qDebug() << "Hello";
+    qDebug() << "Hello one";
 }
 
 MainWindow::~MainWindow()
